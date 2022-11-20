@@ -2,6 +2,11 @@
 This repository brings together tool creators, bloggers, speakers, book authors, and other interesting Mastodon accounts
 
 
+
+<hr>
+If you're not on this list, it doesn't mean I don't love you. It means that I don't know your Mastodon profile or that I just haven't had time to add you. Feel free to add yourself (indicating the instrument or project you are doing)
+<hr>
+
 | Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
 | --- | --- | --- | --- |--- |
 | @binarypool@infosec.exchange | SPIDERFOOT | Australian living in Switzerland. In InfoSec for too long. Creator of SpiderFoot. Currently a VP at Intel 471. | https://twitter.com/binarypool | https://github.com/smicallef/spiderfoot | 
