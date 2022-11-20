@@ -55,3 +55,15 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @r00t0v3rr1d3@infosec.exchange |  | InfoSec, RedTeam, Pentest, CCDC, DevOps, PostEx | https://twitter.com/r00t0v3rr1d3 | https://github.com/r00t0v3rr1d3 | 
 | @alobbs@mastodon.social |  | Sr Director of Engineering (Cloud and Edge Infrastructure) at eBay. Former Head of Engineering at Docker (investor now). Leadership at Facebook, Akamai, Red Hat, Canonical, and Sun Microsystems before that. | https://twitter.com/alobbs | https://github.com/alobbs | 
 | @gregcastle@infosec.exchange | Forensic Aircrafts | Security for Anthos and Google Kubernetes Engine. Former pentester, DFIR and OS X security he/him | https://twitter.com/mrgcastle |  | 
+
+
+
+## Tools for finding accounts in Mastodon and collecting information about users
+
+| Link | Description |
+| --- | --- |
+| [MASTO ](https://github.com/C3n7ral051nt4g3ncy/Masto) | Masto searches for the users Mastodon by name  and collects information about them (profile creation date, number of subscribers and subscriptions, bio, avatar link and more).|
+| [Fedifinder](https://fedifinder.glitch.me/) | Tool for finding Twitter-users in Mastodon. You can search among those who follow you, those who follow you, as well as in your lists! Results can be exported to CSV. |
+| [MastoVue](https://mastovue.glitch.me/#/) | More and more #osint and #infosec bloggers are creating Mastodon profiles these days. This tool will help you find accounts that match your interests by hashtag. |
+| [Debirdify](https://pruvisto.org/debirdify/) | This tool automatically finds Fediverse/Mastodon accounts of people you follow on Twitter |
+| [Search.Noc.Social](https://search.noc.social/) | Good alternative to the standard Mastodon search. This service allows you to search for users on different servers by hashtags and keywords.|
