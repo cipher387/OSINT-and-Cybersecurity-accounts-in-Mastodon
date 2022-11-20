@@ -7,6 +7,21 @@ This repository brings together tool creators, bloggers, speakers, book authors,
 If you're not on this list, it doesn't mean I don't love you. It means that I don't know your Mastodon profile or that I just haven't had time to add you. Feel free to add yourself (indicating the instrument or project you are doing)
 <hr>
 
+<hr>
+
+## How to subscribe to all profiles from the list at once
+
+Download the file osint_accounts.csv from this repository and import it into your account using the menu:
+
+Preferences -> Import and export -> Import
+
+(make sure that the Merge option is active)
+
+<hr>
+
+
+## Developers of OSINT tools
+
 | Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
 | --- | --- | --- | --- |--- |
 | @binarypool@infosec.exchange | SPIDERFOOT | Australian living in Switzerland. In InfoSec for too long. Creator of SpiderFoot. Currently a VP at Intel 471. | https://twitter.com/binarypool | https://github.com/smicallef/spiderfoot | 
@@ -22,6 +37,11 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @irohsint@0sint.social | Telepathy | Digital investigator researching and countering extremism, hate speech and disinformation. Senior Digital Methods Manager at the Institute for Strategic Dialogue. Creator of Telepathy and admin of 0sint.social. | https://twitter.com/JordanWildon | https://github.com/jordanwildon | 
 | @pruvisto@graz.social | Deberdify | Computer Science postdoc. Likes climbing and speaking Esperanto. Gets paid to explain mathematical proofs to computers. | https://twitter.com/pruvisto |  | 
 | @commanderroot@mastodon.social | Twitch tools  | Building software solutions | https://twitter.com/CommanderRoot | https://github.com/CommanderRoot | 
+
+
+## OSINT bloggers
+| Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
+| --- | --- | --- | --- |--- |
 | @InfoSecSherpa@infosec.exchange | https://infosecsherpa.medium.com/ | Your guide up a mountain of information! #Ginfosec | https://twitter.com/InfoSecSherpa |  | 
 | @nixintel@mastodon.social | https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list | Steven Harris | OSINT & Cyber Security Specialist | Investigator | Teach OSINT at SANS | Member of @OSINTCurious | https://twitter.com/nixintel |  | 
 | @hatless1der@infosec.exchange | Blog https://hatless1der.com/ | Dir. of Intelligence @ NCPTF.org | President @Hatless Investigations Grp | Instructor @ MyOSINT.Training | Co-Founder @ OSINT.games | VP @ Clicksafe Intelligence | https://twitter.com/hatless1der |  | 
@@ -37,6 +57,12 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @osintunleashed@0sint.social |  | Plessas Senior Analyst, IEEE SAOpen Vol, @osintunleashed@0sint.social Counter-Disinfo, Learner/Author, Diversity & Inclusion, OSINT since 01, & Youth Training | https://twitter.com/UnleashedOsint |  | 
 | @osinttechnical@mstdn.social |  | Open Source Intelligence Specialist with CNA. Standard spiel about not endorsing retweets, my views/freezing cold takes are my own. | https://twitter.com/Osinttechnical |  | 
 | @cybersecstu@mastodon.social |  | Cyber #threatintel & Hunting Snr Manager Used to run a podcast & community, loves OSINT, needs a hobby outside of creating memes. Not even sure views are my own, but definitely not my employer's! | https://twitter.com/cybersecstu |  | 
+
+
+
+## Cybersecurity tools creators
+| Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
+| --- | --- | --- | --- |--- |
 | @ivre@infosec.exchange | IVRE | Open-source #network recon framework. Relies on Nmap, Masscan, Zeek, ProjectDiscovery, p0f, …. #OSINT #redteam #blueteam #bugbounty | https://twitter.com/IvreRocks | https://github.com/ivre | 
 | @caffix@infosec.exchange | AMASS | #attacksurface protection at zerofox | #owasp @amass project leader | https://twitter.com/jeff_foley | https://github.com/caffix | 
 | @zaproxy@infosec.exchange | ZAPROXY | OWASP Zed Attack Proxy | https://twitter.com/zaproxy | https://github.com/zaproxy | 
@@ -47,15 +73,19 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @schweikert@hostux.social | FPING |  | https://twitter.com/dschweikert | https://github.com/schweikert | 
 | @autumnalbee@tech.lgbt | pyWhat | Security engineer at Monzo. Open source creator / writer | https://twitter.com/bee_sec_san | https://github.com/bee-san | 
 | @frozen@metalhead.club | Gss-Ntmlaspp | Loud guitars. Animal welfare. Crypto means cryptography, especially Secure Boot. Based in Our Fair City, MA, US. Gender roles are bad for us. | https://twitter.com/frozencemetery |  | 
+| @gregcastle@infosec.exchange | Forensic Aircrafts | Security for Anthos and Google Kubernetes Engine. Former pentester, DFIR and OS X security he/him | https://twitter.com/mrgcastle |  | 
 | @robertswiecki@infosec.exchange | Hongfazz, nsjail | Info-Sec@Google. Author of honggfuzz, nsjail, intrace ... Co-author "Applied Reverse Engineering". Personal profile. | https://twitter.com/robertswiecki |  | 
 | @epi@infosec.exchange | Ferox Buster, Recon Pipeline |  | https://twitter.com/epi052 | https://github.com/epi052 | 
 | @tomnomnom@mastodon.lol | HTTProbe | Open-source tool maker, web security person, trainer, talker, fixer, eater, poly, not really a sheep. He/him. | https://twitter.com/TomNomNom | https://github.com/tomnomnom | 
 | @webtonull@infosec.exchange | Retire.js | Security researcher at Crosspoint Labs. AppSec. Tweets are my own and do not express the opinion of my employer. OWASP. retire.js | https://twitter.com/webtonull | https://github.com/eoftedal | 
+
+
+## Cybersecurity bloggers
+| Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
+| --- | --- | --- | --- |--- |
 | @kozmic@infosec.exchange |  | Into Cloud Security and Application Security. Hobbies besides security that I may, or may not, write about: Formula 1, lock-picking, SDR, Flipper Zero, poker, cross country skiing, sim-racing, beer | https://twitter.com/kozmic | https://github.com/kozmic | 
 | @r00t0v3rr1d3@infosec.exchange |  | InfoSec, RedTeam, Pentest, CCDC, DevOps, PostEx | https://twitter.com/r00t0v3rr1d3 | https://github.com/r00t0v3rr1d3 | 
 | @alobbs@mastodon.social |  | Sr Director of Engineering (Cloud and Edge Infrastructure) at eBay. Former Head of Engineering at Docker (investor now). Leadership at Facebook, Akamai, Red Hat, Canonical, and Sun Microsystems before that. | https://twitter.com/alobbs | https://github.com/alobbs | 
-| @gregcastle@infosec.exchange | Forensic Aircrafts | Security for Anthos and Google Kubernetes Engine. Former pentester, DFIR and OS X security he/him | https://twitter.com/mrgcastle |  | 
-
 
 
 ## Tools for finding accounts in Mastodon and collecting information about users
