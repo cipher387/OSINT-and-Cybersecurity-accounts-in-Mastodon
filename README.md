@@ -65,7 +65,7 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @autumnalbee@tech.lgbt | pyWhat | Security engineer at Monzo. Open source creator / writer | https://twitter.com/bee_sec_san | https://github.com/bee-san | 
 | @frozen@metalhead.club | Gss-Ntmlaspp | Loud guitars. Animal welfare. Crypto means cryptography, especially Secure Boot. Based in Our Fair City, MA, US. Gender roles are bad for us. | https://twitter.com/frozencemetery |  | 
 | @gregcastle@infosec.exchange | Forensic Aircrafts | Security for Anthos and Google Kubernetes Engine. Former pentester, DFIR and OS X security he/him | https://twitter.com/mrgcastle |  | 
-| @robertswiecki@infosec.exchange | Hongfazz, nsjail | Info-Sec@Google. Author of honggfuzz, nsjail, intrace ... Co-author "Applied Reverse Engineering". Personal profile. | https://twitter.com/robertswiecki |  | 
+| @robertswiecki@infosec.exchange | Hongfazz, nsjail | Info-Sec@Google. Author of honggfuzz, nsjail, intrace ... Co-author "Applied Reverse Engineering". Personal profile. | https://twitter.com/robertswiecki | https://github.com/robertswiecki | 
 | @epi@infosec.exchange | Ferox Buster, Recon Pipeline |  | https://twitter.com/epi052 | https://github.com/epi052 | 
 | @tomnomnom@mastodon.lol | HTTProbe | Open-source tool maker, web security person, trainer, talker, fixer, eater, poly, not really a sheep. He/him. | https://twitter.com/TomNomNom | https://github.com/tomnomnom | 
 | @webtonull@infosec.exchange | Retire.js | Security researcher at Crosspoint Labs. AppSec. Tweets are my own and do not express the opinion of my employer. OWASP. retire.js | https://twitter.com/webtonull | https://github.com/eoftedal | 
