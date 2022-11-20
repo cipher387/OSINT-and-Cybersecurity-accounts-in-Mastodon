@@ -7,13 +7,11 @@ This repository brings together tool creators, bloggers, speakers, book authors,
 | @binarypool@infosec.exchange | SPIDERFOOT | Australian living in Switzerland. In InfoSec for too long. Creator of SpiderFoot. Currently a VP at Intel 471. | https://twitter.com/binarypool | https://github.com/smicallef/spiderfoot | 
 | @navlys_@infosec.exchange | Epieos Tools | Passionnate about #OSINT. @Epieos & @myosintjob Founder. @OsintFr and @SpyingChallenge co-founder, @_leHACK_ #OsintVillage organiser | https://twitter.com/navlys_ |  | 
 | @webbreacher@infosec.exchange | WhatsMyName | Always #OSINTCurious. #OSINT lover. | https://twitter.com/WebBreacher | https://github.com/WebBreacher | 
-"| @c3n7ral051nt4g3ncy@infosec.exchange | MASTO, Prot1ntelligence, OSINT-Bookmarklets | #OSINT | :facebook:​ #SOCMINT | 🛰️​ #IMINT | :geodesic:​ #GEOINT | :tor:​ #DARKWEB |
-:python:​ #PYTHON | :bitcoin:​ #CRYPTO < Instead of Oh Sh** :hot_shit:​ , try some Oh SINT! :detective_g1:​ /> | https://twitter.comOSINT_Tactical | https://github.com/C3n7ral051nt4g3ncy | "
+| @c3n7ral051nt4g3ncy@infosec.exchange | MASTO, Prot1ntelligence, OSINT-Bookmarklets | #OSINT:facebook:​ #SOCMINT #IMINT  :geodesic:​ #GEOINT  :tor:​ #DARKWEB |
+:python:​ #PYTHON :bitcoin:​ #CRYPTO < Instead of Oh Sh** :hot_shit:​ , try some Oh SINT! :detective_g1:​ /> | https://twitter.comOSINT_Tactical | https://github.com/C3n7ral051nt4g3ncy | 
 | @SEINT@infosec.exchange | NAMINT | SEINT - Social Engineering and INTelligence |#OSINT & #OPSEC trainer at Securitum |OSINT series author on https://sekurak.pl | https://twitter.com/SEINT_pl | https://github.com/seintpl | 
 | @gonzo@0sint.social | GEOWifi |  | https://twitter.com/GONZOs_int | https://github.com/GONZOsint | 
-"| @tek@todon.eu | Harpoon | Technologist @ Amnesty International
-Malware, Threat Intelligence, Disinformation, Human Rights and silly memes.
-Lives in France, may tweet in French sometimes. | https://twitter.com/tenacioustek | https://github.com/Te-k | "
+| @tek@todon.eu | Harpoon | Technologist @ Amnesty International Malware, Threat Intelligence, Disinformation, Human Rights and silly memes.Lives in France, may tweet in French sometimes. | https://twitter.com/tenacioustek | https://github.com/Te-k | 
 | @n0kovo@infosec.exchange | FB Friend List Scraper | DK resident. Privacy, pentesting, OSINT, animal liberation, anti-fascism. White/Gray hat colorfluid. | https://twitter.com/n0kovo | https://github.com/n0kovo | 
 | @noneprivacy@0sint.social | Telescan | Senior Open Source Intelligence Developer and Researcher. | https://twitter.com/noneprivacy | https://github.com/pielco11 | 
 | @edent@mastodon.social | TweeView, Twitter Networks | Work in #CyberSecurity. Got the ⏻ symbol into #Unicode. Open Standards / Source / Data geek. Known as @Edent on most social platforms. Studying for an MSc in using the Metaverse for analytics. Bit obsessed with #SolarPower but not quite a #SolarPunk. | https://twitter.com/edent | https://github.com/edent | 
@@ -33,11 +31,8 @@ Lives in France, may tweet in French sometimes. | https://twitter.com/tenacioust
 | @secou@mastodon.social |  | Consultant, formateur, ex-journaliste : veille stratégique, intelligence économique, OSINT, social media, search, SEO | https://twitter.com/secou |  | 
 | @osintunleashed@0sint.social |  | Plessas Senior Analyst, IEEE SAOpen Vol, @osintunleashed@0sint.social Counter-Disinfo, Learner/Author, Diversity & Inclusion, OSINT since 01, & Youth Training | https://twitter.com/UnleashedOsint |  | 
 | @osinttechnical@mstdn.social |  | Open Source Intelligence Specialist with CNA. Standard spiel about not endorsing retweets, my views/freezing cold takes are my own. | https://twitter.com/Osinttechnical |  | 
-"| @cybersecstu@mastodon.social |  | Cyber #threatintel & Hunting Snr Manager
-Used to run a podcast & community, loves OSINT, needs a hobby outside of creating memes.
-Not even sure views are my own, but definitely not my employer's! | https://twitter.com/cybersecstu |  | "
-"| @ivre@infosec.exchange | IVRE | Open-source #network recon framework. Relies on Nmap, Masscan, Zeek, ProjectDiscovery, p0f, ….
-#OSINT #redteam #blueteam #bugbounty | https://twitter.com/IvreRocks | https://github.com/ivre | "
+| @cybersecstu@mastodon.social |  | Cyber #threatintel & Hunting Snr Manager Used to run a podcast & community, loves OSINT, needs a hobby outside of creating memes. Not even sure views are my own, but definitely not my employer's! | https://twitter.com/cybersecstu |  | 
+| @ivre@infosec.exchange | IVRE | Open-source #network recon framework. Relies on Nmap, Masscan, Zeek, ProjectDiscovery, p0f, …. #OSINT #redteam #blueteam #bugbounty | https://twitter.com/IvreRocks | https://github.com/ivre | 
 | @caffix@infosec.exchange | AMASS | #attacksurface protection at zerofox | #owasp @amass project leader | https://twitter.com/jeff_foley | https://github.com/caffix | 
 | @zaproxy@infosec.exchange | ZAPROXY | OWASP Zed Attack Proxy | https://twitter.com/zaproxy | https://github.com/zaproxy | 
 | @metasploit@infosec.exchange | Metasploit | The Metasploit Project (part of the Rapid7 family) | https://twitter.com/metasploit | https://github.com/rapid7/metasploit-framework | 
