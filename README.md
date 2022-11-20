@@ -93,7 +93,7 @@ Preferences -> Import and export -> Import
 
 
 
-## Appendix: Tools for finding accounts in Mastodon and collecting information about users
+## Appendix: Tools for finding accounts in Mastodon and collecting information about it
 
 | Link | Description |
 | --- | --- |
