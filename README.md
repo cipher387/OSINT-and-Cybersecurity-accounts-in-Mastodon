@@ -7,8 +7,7 @@ This repository brings together tool creators, bloggers, speakers, book authors,
 | @binarypool@infosec.exchange | SPIDERFOOT | Australian living in Switzerland. In InfoSec for too long. Creator of SpiderFoot. Currently a VP at Intel 471. | https://twitter.com/binarypool | https://github.com/smicallef/spiderfoot | 
 | @navlys_@infosec.exchange | Epieos Tools | Passionnate about #OSINT. @Epieos & @myosintjob Founder. @OsintFr and @SpyingChallenge co-founder, @_leHACK_ #OsintVillage organiser | https://twitter.com/navlys_ |  | 
 | @webbreacher@infosec.exchange | WhatsMyName | Always #OSINTCurious. #OSINT lover. | https://twitter.com/WebBreacher | https://github.com/WebBreacher | 
-| @c3n7ral051nt4g3ncy@infosec.exchange | MASTO, Prot1ntelligence, OSINT-Bookmarklets | #OSINT:facebook:​ #SOCMINT #IMINT  :geodesic:​ #GEOINT  :tor:​ #DARKWEB |
-:python:​ #PYTHON :bitcoin:​ #CRYPTO < Instead of Oh Sh** :hot_shit:​ , try some Oh SINT! :detective_g1:​ /> | https://twitter.comOSINT_Tactical | https://github.com/C3n7ral051nt4g3ncy | 
+| @c3n7ral051nt4g3ncy@infosec.exchange | MASTO, Prot1ntelligence, OSINT-Bookmarklets | #OSINT:facebook:​ #SOCMINT #IMINT  :geodesic:​ #GEOINT  :tor:​ #DARKWEB :python:​ #PYTHON :bitcoin:​ #CRYPTO < Instead of Oh Sh** :hot_shit:​ , try some Oh SINT! :detective_g1:​ /> | https://twitter.comOSINT_Tactical | https://github.com/C3n7ral051nt4g3ncy | 
 | @SEINT@infosec.exchange | NAMINT | SEINT - Social Engineering and INTelligence |#OSINT & #OPSEC trainer at Securitum |OSINT series author on https://sekurak.pl | https://twitter.com/SEINT_pl | https://github.com/seintpl | 
 | @gonzo@0sint.social | GEOWifi |  | https://twitter.com/GONZOs_int | https://github.com/GONZOsint | 
 | @tek@todon.eu | Harpoon | Technologist @ Amnesty International Malware, Threat Intelligence, Disinformation, Human Rights and silly memes.Lives in France, may tweet in French sometimes. | https://twitter.com/tenacioustek | https://github.com/Te-k | 
