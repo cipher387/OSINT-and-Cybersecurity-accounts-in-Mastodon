@@ -7,17 +7,7 @@ This repository brings together tool creators, bloggers, speakers, book authors,
 If you're not on this list, it doesn't mean I don't love you. It means that I don't know your Mastodon profile or that I just haven't had time to add you. Feel free to add yourself (indicating the instrument or project you are doing)
 <hr>
 
-<hr>
 
-## How to subscribe to all profiles from the list at once
-
-Download the file osint_accounts.csv from this repository and import it into your account using the menu:
-
-Preferences -> Import and export -> Import
-
-(make sure that the Merge option is active)
-
-<hr>
 
 
 ## Developers of OSINT tools
@@ -88,7 +78,22 @@ Preferences -> Import and export -> Import
 | @alobbs@mastodon.social |  | Sr Director of Engineering (Cloud and Edge Infrastructure) at eBay. Former Head of Engineering at Docker (investor now). Leadership at Facebook, Akamai, Red Hat, Canonical, and Sun Microsystems before that. | https://twitter.com/alobbs | https://github.com/alobbs | 
 
 
-## Tools for finding accounts in Mastodon and collecting information about users
+<hr>
+
+## How to subscribe to all profiles from this list at once
+
+Download the file osint_accounts.csv from this repository and import it into your account using the menu:
+
+Preferences -> Import and export -> Import
+
+(make sure that the Merge option is active)
+
+<hr>
+
+
+
+
+## Appendix: Tools for finding accounts in Mastodon and collecting information about users
 
 | Link | Description |
 | --- | --- |
