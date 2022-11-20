@@ -52,6 +52,14 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @ActoTiger@infosec.exchange |  | Offensive Security "enthusiast" #OSCP | https://twitter.com/Tiger_Baldwin | https://github.com/AcroTiger  | 
 
 
+## OSINT books authors
+
+| Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
+| --- | --- | --- | --- |--- |
+| @febrezo@mastodon.social | Manual de ciberinvestigación en fuentes abiertas: OSINT para analistas  https://www.amazon.com/-/es/F%C3%A9lix-Brezo-Fern%C3%A1ndez/dp/1650895747  | Cyberintelligence analyst amongst other things. I ✍️ words. Tooting in English, Spanish & Catalan depending on the mood. | https://twitter.com/febrezo |--- |
+| @jengolbeck@hci.social  | Introduction to Social Media Investigation: A Hands-on Approach https://www.amazon.com/Jennifer-Golbeck/e/B00B8X1U84/ref=dp_byline_cont_pop_ebooks_1 |Professor at UMD AI, privacy, spying on the scary corners of the internet so you don't have to| https://twitter.com/jengolbeck |--- |
+
+
 ## Cybersecurity tools creators
 | Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
 | --- | --- | --- | --- |--- |
