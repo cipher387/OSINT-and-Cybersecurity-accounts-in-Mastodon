@@ -48,8 +48,8 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @osintunleashed@0sint.social |  | Plessas Senior Analyst, IEEE SAOpen Vol, @osintunleashed@0sint.social Counter-Disinfo, Learner/Author, Diversity & Inclusion, OSINT since 01, & Youth Training | https://twitter.com/UnleashedOsint |  | 
 | @osinttechnical@mstdn.social |  | Open Source Intelligence Specialist with CNA. Standard spiel about not endorsing retweets, my views/freezing cold takes are my own. | https://twitter.com/Osinttechnical |  | 
 | @cybersecstu@mastodon.social |  | Cyber #threatintel & Hunting Snr Manager Used to run a podcast & community, loves OSINT, needs a hobby outside of creating memes. Not even sure views are my own, but definitely not my employer's! | https://twitter.com/cybersecstu |  | 
-| @fiete@mastodon.social |  | Journalist, Wiss. Mitarbeiter | Verifikation Faktencheck OSINT Netz Medien Social | https://twitter.com/fiete_stegers |  | 
-
+| @fiete@mastodon.social |  | Journalist, Wiss. Mitarbeiter Verifikation Faktencheck OSINT Netz Medien Social | https://twitter.com/fiete_stegers |  | 
+| @ActoTiger@infosec.exchange |  | Offensive Security "enthusiast" #OSCP | https://twitter.com/Tiger_Baldwin |  | 
 
 
 ## Cybersecurity tools creators
