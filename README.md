@@ -41,6 +41,7 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @osintessentials@mastodon.online | https://www.osintessentials.com/starter-tool | Education and critical evaluation of information are crucial. Don't be a passive consumer. @eoghansweeney - using this account to keep OSINT stuff together | https://twitter.com/OSINTessentials |  | 
 | @ChristinaLekati@infosec.exchange |  | #SocialEngineering, #Psychology, & #OSINT intertwined for the sake of security. Exec Board Member @OSINTCurious |  |  | 
 | @sin@infosec.exchange | OsintDojo.com | Certified Cyber Crime Investigator. TraceLabs Black Badge, Gold Badge & MVO Winner. OSINTDojo Sensei | https://twitter.com/sinwindie |  | 
+| @OSINTgeek@infosec.exchange | osintgeek.de | Dozent für Open Source Intelligence (#OSINT) | Organisator der GOSINTCon | https://twitter.com/OSINTgeek |   | 
 | @defcon@defcon.social | https://www.cyber-risk-gmbh.com/ | DEF CON is the world's most influential hacker conference. Held every year since 1993 in Las Vegas, Nevada, DEF CON is the hub of a global community of hackers, security geeks and curious technophiles. Learn more at defcon.org | https://twitter.com/defcon |  | 
 | @tradecraft@noc.social | https://www.ostradecraft.com/ | OSINT consulting and training design/delivery | Posting on latest and greatest online search and verification concepts, methods, tips and tools. | https://twitter.com/TRADECRAFT14 |  | 
 | @cyb_detective@0sint.social | https://github.com/cipher387/osint_stuff_tool_collection | Every day I write about #osint (open source intelligence) tools and techniques. Also a little bit about forensics, hacking, and cybersecurity. | https://twitter.com/cyb_detective | https://github.com/cipher387/ | 
@@ -50,6 +51,9 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @cybersecstu@mastodon.social |  | Cyber #threatintel & Hunting Snr Manager Used to run a podcast & community, loves OSINT, needs a hobby outside of creating memes. Not even sure views are my own, but definitely not my employer's! | https://twitter.com/cybersecstu |  | 
 | @fiete@mastodon.social |  | Journalist, Wiss. Mitarbeiter Verifikation Faktencheck OSINT Netz Medien Social | https://twitter.com/fiete_stegers |  | 
 | @ActoTiger@infosec.exchange |  | Offensive Security "enthusiast" #OSCP | https://twitter.com/Tiger_Baldwin | https://github.com/AcroTiger  | 
+
+
+
 
 
 ## OSINT books authors
