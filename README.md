@@ -51,6 +51,8 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @cybersecstu@mastodon.social |  | Cyber #threatintel & Hunting Snr Manager Used to run a podcast & community, loves OSINT, needs a hobby outside of creating memes. Not even sure views are my own, but definitely not my employer's! | https://twitter.com/cybersecstu |  | 
 | @fiete@mastodon.social |  | Journalist, Wiss. Mitarbeiter Verifikation Faktencheck OSINT Netz Medien Social | https://twitter.com/fiete_stegers |  | 
 | @ActoTiger@infosec.exchange |  | Offensive Security "enthusiast" #OSCP | https://twitter.com/Tiger_Baldwin | https://github.com/AcroTiger  | 
+| @jomo@mstdn.io | https://jomo.tv/ | Privacy, Infosec, OSINT, OPSEC, OSM, CTF, Shitposts, Echter Hacker. Hier schreibt das Team; persönliche Posts werden mit /s unterzeichnet. | https://twitter.com/0xjomo | https://github.com/jomo |
+
 
 
 
