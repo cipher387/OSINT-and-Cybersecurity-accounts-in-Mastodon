@@ -120,3 +120,6 @@ Preferences -> Import and export -> Import
 | [Debirdify](https://pruvisto.org/debirdify/) | This tool automatically finds Fediverse/Mastodon accounts of people you follow on Twitter |
 | [Search.Noc.Social](https://search.noc.social/) | Good alternative to the standard Mastodon search. This service allows you to search for users on different servers by hashtags and keywords.|
 | [Instances.Social](https://instances.social/) | A tool for searching across full list of instances in #Mastodon. It can help you choose the right instance to register (matching your views on spam, advertising and pornography) and in finding illegal content to investigate crimes.|
+
+
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
