@@ -93,7 +93,8 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @kozmic@infosec.exchange |  | Into Cloud Security and Application Security. Hobbies besides security that I may, or may not, write about: Formula 1, lock-picking, SDR, Flipper Zero, poker, cross country skiing, sim-racing, beer | https://twitter.com/kozmic | https://github.com/kozmic | 
 | @r00t0v3rr1d3@infosec.exchange |  | InfoSec, RedTeam, Pentest, CCDC, DevOps, PostEx | https://twitter.com/r00t0v3rr1d3 | https://github.com/r00t0v3rr1d3 | 
 | @alobbs@mastodon.social |  | Sr Director of Engineering (Cloud and Edge Infrastructure) at eBay. Former Head of Engineering at Docker (investor now). Leadership at Facebook, Akamai, Red Hat, Canonical, and Sun Microsystems before that. | https://twitter.com/alobbs | https://github.com/alobbs | 
-| @shellsharks@infosec.exchange | https://shellsharks.com | Infosec researcher | craft beer enthusiast |  | https://github.com/shellsharks | 
+| @shellsharks@infosec.exchange | https://shellsharks.com | Infosec researche  craft beer enthusiast |  | https://github.com/shellsharks | 
+| @tek@todon.eu | https://randhome.io/ | I am Etienne "Tek" Maynier, an activist, hacker and security researcher.| https://twitter.com/tenacioustek | https://github.com/Te-k | 
 
 <hr>
 
