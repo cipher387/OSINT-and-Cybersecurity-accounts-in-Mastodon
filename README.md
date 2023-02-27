@@ -53,8 +53,8 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @fiete@mastodon.social |  | Journalist, Wiss. Mitarbeiter Verifikation Faktencheck OSINT Netz Medien Social | https://twitter.com/fiete_stegers |  | 
 | @ActoTiger@infosec.exchange |  | Offensive Security "enthusiast" #OSCP | https://twitter.com/Tiger_Baldwin | https://github.com/AcroTiger  | 
 | @jomo@mstdn.io | https://jomo.tv/ | Privacy, Infosec, OSINT, OPSEC, OSM, CTF, Shitposts, Echter Hacker. Hier schreibt das Team; persönliche Posts werden mit /s unterzeichnet. | https://twitter.com/0xjomo | https://github.com/jomo |
-
-
+| @myosinttraining@infosec.exchange  |  myosint.training | Official Twitter account for the http://myosint.training site. Your home for online #OSINT learning. | https://twitter.com/myosinttrainer | |
+| @osint_cyn@infosec.exchange  |  | OSINT, Python, Data, InfoSec, Cyber, Attribution. Doing stuff with things | https://twitter.com/CynOsint | |
 
 
 
@@ -85,15 +85,44 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @epi@infosec.exchange | Ferox Buster, Recon Pipeline |  | https://twitter.com/epi052 | https://github.com/epi052 | 
 | @tomnomnom@mastodon.lol | HTTProbe | Open-source tool maker, web security person, trainer, talker, fixer, eater, poly, not really a sheep. He/him. | https://twitter.com/TomNomNom | https://github.com/tomnomnom | 
 | @webtonull@infosec.exchange | Retire.js | Security researcher at Crosspoint Labs. AppSec. Tweets are my own and do not express the opinion of my employer. OWASP. retire.js | https://twitter.com/webtonull | https://github.com/eoftedal | 
+| @Xnl_h4ck3r@infosec.exchange | xnLinkFinder | Aspiring Bug Bounty Hunter & dev of tools: GAP, xnLinkFinder & waymore, featured in "Bug Hunter’s Methodology: Application Analysis v1" by JHaddix | https://twitter.com/xnl_h4ck3r | https://github.com/xnl-h4ck3r | 
+| @shipcod3@teslapwners.club | canTot | ROOTCON goon & CFP Reviewboard, msf lover/contributor, F&AM, car hacker, creator of canTot, #ADDVulcan CTF member | https://twitter.com/shipcod3 | https://github.com/shipcod3 | 
+| @Foss@infosec.exchange | PSRecon | Security Leader @ CrowdStrike OverWatch. Advisor @ BirdDog Security and RADICL Defense. Views are strictly my own | https://twitter.com/35Foss  | https://github.com/gfoss | 
+| @SteveD3@infosec.exchange | kit_hunter | Father. Geek. Former award-winning journalist. Security researcher. Board of directors @CircleCityCon. CMO @BSidesLV. Tweets are my own. Member: @CuratedIntel | https://twitter.com/SteveD3 | https://github.com/steved3 |
+
+
+
+
+
+
+
 
 
 ## Cybersecurity bloggers
 | Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
 | --- | --- | --- | --- |--- |
+| @vanderaj@infosec.exchange | OWASP | OWASP Executive Director, OWASP Top 10 and Application Security Verification Standard co-lead. Dad. Cats. AppSec. | https://twitter.com/vanderaj | https://github.com/vanderaj | 
+|@Jhaddix@infosec.exchange | The Bug Hunters Methodology  | Father, hacker, blogger, gamer, & nerd. Bounty Hunter. | https://twitter.com/Jhaddix  | https://github.com/jhaddix | 
+| @adamshostack@infosec.exchange | https://threatsbook.com/  | Author, game designer, technologist, teacher. Helped to create the CVE and many other things. Fixed autorun for XP. On Blackhat Review board. | https://twitter.com/adamshostack |   | 
 | @kozmic@infosec.exchange |  | Into Cloud Security and Application Security. Hobbies besides security that I may, or may not, write about: Formula 1, lock-picking, SDR, Flipper Zero, poker, cross country skiing, sim-racing, beer | https://twitter.com/kozmic | https://github.com/kozmic | 
 | @r00t0v3rr1d3@infosec.exchange |  | InfoSec, RedTeam, Pentest, CCDC, DevOps, PostEx | https://twitter.com/r00t0v3rr1d3 | https://github.com/r00t0v3rr1d3 | 
 | @alobbs@mastodon.social |  | Sr Director of Engineering (Cloud and Edge Infrastructure) at eBay. Former Head of Engineering at Docker (investor now). Leadership at Facebook, Akamai, Red Hat, Canonical, and Sun Microsystems before that. | https://twitter.com/alobbs | https://github.com/alobbs | 
 | @shellsharks@infosec.exchange | https://shellsharks.com | Infosec researche  craft beer enthusiast |  | https://github.com/shellsharks | 
+| @dcuthbert@defcon.social | @OWASP ASVS standard | Documentary photographer, old creaky hacker. Co-author of the @OWASP ASVS standard. Blackhat/Brucon Review Board. | https://twitter.com/dcuthbert |  | 
+| @xabean@infosec.exchange |  | previously twitter.com/xabean || currently Netography || previously Sourcefire VRT -> Cisco || perl, music, linux, 3d printing, electronics, woodworking, security research, and single. | https://twitter.com/xabean | https://github.com/warewolf | 
+| @p0lr@infosec.exchange |  | InfoSec Philosopher, Automation Enthusiast, Rabbit Hole Explorer, Reader of RFCs. Opinions are probably not my own.  | https://twitter.com/p0lr_ |  | 
+| @agent0x0@infosec.exchange  | Show Shared Security Podcast | #Cybersecurity Aficionado, #Privacy Advocate, #Podcaster, Founder and Co-Host of the Shared Security Show @sharedsecurity #podcast | | |
+| @securestep9@infosec.exchange  | #OWASP London Chapter | #OWASP London Chapter Leader. Application Security (#AppSec) Architect & Consultant. OWASP Nettacker Project co-leader. #CISSP | https://twitter.com/securestep9 | |
+| @CurtWilson@mastodon.social  |  | Security research, malware analysis, cyber threat intel, reversing, explorer of tech. Hacker of the oldschool variety,  | https://twitter.com/curtw | |
+| @nerdpr0f@infosec.exchange |  | Teaching faculty. Security researcher. Red team, DevOps, AppSec. An academic but not an academic. nerdprof | https://twitter.com/NerdProf | |
+| @misfir3@infosec.exchange |  | #prodsec/#appsec @githubsecurity ; Likes bikes & mountains; Hates regular mass shootings etc.  | https://twitter.com/misfir3 | |
+| @thepacketrat@infosec.exchange |  | Threat researcher @SophosXops, @arstechnica emeritus IT/Natsec editor, cat tree, birb paparrazo. | https://twitter.com/thepacketrat | |
+
+
+## Cybersecurity companies
+| Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
+| --- | --- | --- | --- |--- |
+| @secureideas@infosec.exchange | Secure Ideas  | Father, CEO, Security Consultant, Instructor, Presenter, Course Author, Nerd, Former Member of the 501st Legion. SL-42265 | https://twitter.com/secureideas |  | 
 
 <hr>
 
