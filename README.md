@@ -57,6 +57,15 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @osint_cyn@infosec.exchange  |  | OSINT, Python, Data, InfoSec, Cyber, Attribution. Doing stuff with things | https://twitter.com/CynOsint | |
 
 
+## OSINT companies
+| Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
+| --- | --- | --- | --- |--- |
+| @Bellingcat@mstdn.social |  | Belingcat  | https://twitter.com/bellingcat  | https://github.com/bellingcat |
+
+
+
+
+
 
 
 ## OSINT books authors
@@ -117,6 +126,8 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 | @nerdpr0f@infosec.exchange |  | Teaching faculty. Security researcher. Red team, DevOps, AppSec. An academic but not an academic. nerdprof | https://twitter.com/NerdProf | |
 | @misfir3@infosec.exchange |  | #prodsec/#appsec @githubsecurity ; Likes bikes & mountains; Hates regular mass shootings etc.  | https://twitter.com/misfir3 | |
 | @thepacketrat@infosec.exchange |  | Threat researcher @SophosXops, @arstechnica emeritus IT/Natsec editor, cat tree, birb paparrazo. | https://twitter.com/thepacketrat | |
+| @spaf@mstdn.social | https://www.researchgate.net/profile/Eugene-Spafford  |  Spaf is a homunculus of possible extraterrestrial origin, tilting at windmills. Cybersecurity, bad jokes, political outrage, academe, non-sequiturs, entropy. |  | |
+| @SashaRomanosky@techhub.social | https://www.romanosky.net/ |  research the economics of security and privacy: data breach costs, breach litigation, cyber insurance, and cybercrime. Former DoD Cyber Policy Advisor. Appointed member of DHS’s Data Privacy and Integrity Advisory Committee (DPIAC). Co-creator of CVSS and EPSS. I also do a bit of woodworking.  |  | |
 
 
 ## Cybersecurity companies
