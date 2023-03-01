@@ -34,6 +34,7 @@ If you're not on this list, it doesn't mean I don't love you. It means that I do
 ## OSINT bloggers
 | Mastodon profile | Tools/projects | Profile description |  Twitter profile |  Github profile |
 | --- | --- | --- | --- |--- |
+| @bobgourley@defcon.social | https://www.oodaloop.com/ | Open Source intelligence reporting on geopolitical risk, cybersecurity, technology | https://twitter.com/ooda |  |
 | @InfoSecSherpa@infosec.exchange | https://infosecsherpa.medium.com/ | Your guide up a mountain of information! #Ginfosec | https://twitter.com/InfoSecSherpa |  | 
 | @nixintel@mastodon.social | https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list | Steven Harris | OSINT & Cyber Security Specialist | Investigator | Teach OSINT at SANS | Member of @OSINTCurious | https://twitter.com/nixintel |  | 
 | @hatless1der@infosec.exchange | Blog https://hatless1der.com/ | Dir. of Intelligence @ NCPTF.org | President @Hatless Investigations Grp | Instructor @ MyOSINT.Training | Co-Founder @ OSINT.games | VP @ Clicksafe Intelligence | https://twitter.com/hatless1der |  | 
