@@ -1,3 +1,8 @@
+
+Thank you for following me! https://cybdetective.com
+
+
+
 # OSINT-and-Cybersecurity-accounts-in-Mastodon
 This repository brings together tool creators, bloggers, speakers, book authors, and other interesting Mastodon accounts
 
@@ -163,4 +168,4 @@ Preferences -> Import and export -> Import
 | [Instances.Social](https://instances.social/) | A tool for searching across full list of instances in #Mastodon. It can help you choose the right instance to register (matching your views on spam, advertising and pornography) and in finding illegal content to investigate crimes.|
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
